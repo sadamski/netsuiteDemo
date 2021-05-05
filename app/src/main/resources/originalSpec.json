@@ -1,0 +1,40 @@
+{
+  "module_001": [
+    "module_002",
+    "module_003",
+    "module_004"
+  ],
+  "module_002": [
+    "feature_001",
+    "feature_002",
+    "utilities"
+  ],
+  "module_003": [
+    "modulee_002",
+    "feature_003"
+  ],
+  "module_004": [
+    "feature_003",
+    "feature_004"
+  ],
+  "feature_001": [
+    "uri_package",
+    "utilities"
+  ],
+  "feature_002": [
+    "data_access",
+    "utilities"
+  ],
+  "feature003": [
+    " "
+  ],
+  "feature004": [
+    "net utilities"
+  ],
+  "utilities": [
+    " "
+  ],
+  "net utilities": [
+    " "
+  ]
+}

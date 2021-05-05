@@ -1,0 +1,12 @@
+{
+  "module_001": [
+    "module_002",
+    "module_003",
+    "module_004"
+  ],
+    "feature_002": [
+    "feature_003", 
+	"module_002" 
+  ]
+
+}
